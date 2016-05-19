@@ -1,0 +1,11 @@
+2016-05-19 07:22:51,753 INFO  - Starting HiveMQ Server
+2016-05-19 07:22:51,785 INFO  - HiveMQ version: 3.1.3
+2016-05-19 07:22:51,785 INFO  - HiveMQ home directory: H:\Course\Thesis\AWS\hivemq-3.1.3
+2016-05-19 07:23:01,807 INFO  - Loaded Plugin HiveMQ JMX Metrics Reporting Plugin - v3.0.0
+2016-05-19 07:23:01,807 INFO  - Loaded Plugin HiveMQ Sys Topic Plugin - v3.0.0
+2016-05-19 07:23:01,822 INFO  - JMX Metrics Reporting started.
+2016-05-19 07:23:01,822 INFO  - Starting TCP listener on address 0.0.0.0 and port 1883
+2016-05-19 07:23:01,947 INFO  - Starting Websocket listener on address 0.0.0.0 and port 8000
+2016-05-19 07:23:01,947 INFO  - Started TCP Listener on address 0.0.0.0 and on port 1883
+2016-05-19 07:23:01,947 INFO  - Started Websocket Listener on address 0.0.0.0 and on port 8000
+2016-05-19 07:23:01,963 INFO  - Started HiveMQ in 10173ms
